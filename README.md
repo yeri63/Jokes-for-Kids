@@ -1,7 +1,7 @@
 # Jokes for Kids
 <div align="center">
   
-![Screenshot of Jokes for Kids](https://github.com/yeri63/Jokes-for-Kids/blob/master/jokes.png)
+![Screenshot of Jokes for Kids](jokes.png)
 </div>
 <p>A collection of silly one-liner jokes for kids. These are pretty silly, and some may be considered bad "dad" jokes, but that's the point! They're created to make someone laugh, grown, etc.</p>
 <p>Here's a sample of what's included...</p>
